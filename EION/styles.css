@@ -1,4 +1,4 @@
-﻿
+
 @font-face
 {
     font-family:tech;
@@ -65,8 +65,7 @@ h1 {
     color: #9AA0A8;
     font-family: tech;
     animation: fadeIn linear 4s;
-    -webkit-animation: fadeIn linear 4s;
-    -moz-animation: fadeIn linear 4s;
-    -o-animation: fadeIn linear 4s;
-    -ms-animation: fadeIn linear 4s
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
 }
