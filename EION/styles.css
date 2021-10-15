@@ -1,0 +1,72 @@
+﻿
+@font-face
+{
+    font-family:tech;
+    src:url("GREY.ttf");
+}
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+body {
+    background-color: ghostwhite;
+}
+h1 {
+    font-size: 450px;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: #9AA0A8;
+    font-family: tech;
+    animation: fadeIn linear 4s;
+    -webkit-animation: fadeIn linear 4s;
+    -moz-animation: fadeIn linear 4s;
+    -o-animation: fadeIn linear 4s;
+    -ms-animation: fadeIn linear 4s
+}
