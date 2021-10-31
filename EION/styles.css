@@ -54,7 +54,7 @@
     }
 }
 body {
-    background-color: ghostwhite;
+    background-color: #d8f3dc;
 }
 h1 {
     font-size: 450px;
@@ -62,7 +62,7 @@ h1 {
     height: 100px;
     line-height: 100px;
     text-align: center;
-    color: #9AA0A8;
+    color: #74c69d;
     font-family: tech;
     animation: fadeIn linear 4s;
     -webkit-animation: fadeIn linear 1s;
